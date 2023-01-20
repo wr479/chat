@@ -6,5 +6,5 @@ Install dependencies in the "socket-server" folder:
 We also install dependencies in the "socket-client" folder:
 "npx create-react-app ./"
 "npm install emoji-picker-react react-router-dom socket.io-client"
-=======
+
 Then just run "npm start"
